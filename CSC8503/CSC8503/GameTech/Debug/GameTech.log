@@ -1,0 +1,74 @@
+﻿  ChasingEnemy.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\ChasingEnemy.cpp(34,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\ChasingEnemy.cpp(34,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\ChasingEnemy.cpp(34,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\ChasingEnemy.cpp(109,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\ChasingEnemy.cpp(109,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Coin.cpp
+  Enemy.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\ChasingEnemy.cpp(109,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  GameTechRenderer.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Goal.cpp
+  Main.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\Main.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\Main.cpp(349,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\Main.cpp(440,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Obstacle.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\Main.cpp(462,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\Obstacle.cpp(11,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\Obstacle.cpp(12,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PlayerCharacter.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\Obstacle.cpp(16,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  StateGameObject.cpp
+  TutorialGame.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(168,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(169,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(170,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(191,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(192,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(443,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(466,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(520,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(617,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(626,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(644,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(645,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(646,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(646,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(647,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(648,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(649,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(649,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(650,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(650,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(651,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(654,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(654,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(656,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(657,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(658,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(659,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(660,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(661,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(667,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(669,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(765,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(789,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(814,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(1082,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(1085,84): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\GameTech\TutorialGame.cpp(1213,68): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameTech.vcxproj -> C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\Win32\Debug\GameTech.exe

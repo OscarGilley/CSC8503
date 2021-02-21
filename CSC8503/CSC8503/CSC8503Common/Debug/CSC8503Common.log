@@ -1,0 +1,34 @@
+﻿  CollisionDetection.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Debug.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\Debug.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  GameObject.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\Debug.cpp(78,16): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  GameWorld.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  PhysicsSystem.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  PositionConstraint.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(50,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  CSC8503Common.vcxproj -> C:\Users\Owner\Downloads\CSC8503_-_DOUBLE_FINAL_Submission_-_Oscar_Gilley\CSC8503 - FINAL Submission\CSC8503\Win32\Debug\CSC8503Common.lib

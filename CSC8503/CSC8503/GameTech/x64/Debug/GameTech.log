@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\4th year uni\CSC8503\CSC8503\GameTech\Main.cpp(349,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\4th year uni\CSC8503\CSC8503\GameTech\Main.cpp(440,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\4th year uni\CSC8503\CSC8503\GameTech\Main.cpp(462,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameTech.vcxproj -> E:\4th year uni\CSC8503\x64\Debug\GameTech.exe

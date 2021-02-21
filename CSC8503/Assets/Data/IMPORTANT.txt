@@ -1,0 +1,2 @@
+Vector3(0,0,0) pos is CENTERPOINT
+size is HALFSIZE Vector3(100, 100, 100) = 200x200x200 CUBE, 100 from center to edge
